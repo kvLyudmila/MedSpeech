@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedSpeech</string>
+    <string name="initials">ФИО</string>
+    <string name="state">Состояние</string>
+    <string name="meds">Введенные лекарства</string>
+    <string name="description">Описание</string>
+    <string name="info">Информация о больном</string>
+    <string name="send">Отправить</string>
+</resources>

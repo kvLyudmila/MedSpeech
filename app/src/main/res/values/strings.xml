@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedSpeech</string>
+    <string name="initials">Name</string>
+    <string name="state">Stay</string>
+    <string name="meds">Meds</string>
+    <string name="description">Description</string>
+    <string name="info">Information about patient</string>
+    <string name="send">Send</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:textColor">@color/text_default</item>
+        <item name="android:actionBarStyle">@style/MedSpeechActionBar</item>
+    </style>
+
+    <style name="MedSpeechActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/background</item>
+        <item name="android:titleTextStyle">@style/MedSpeechActionBar.TitleTextStyle</item>
+        <item name="android:icon">@android:color/transparent</item>
+    </style>
+
+    <style name="MedSpeechActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/text_default</item>
+    </style>
+</resources>
